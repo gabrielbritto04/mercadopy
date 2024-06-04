@@ -4,7 +4,7 @@ produtos = [
     {'id': 2, 'nome': 'Feijão', 'preco': 8.0},
     {'id': 3, 'nome': 'Arroz', 'preco': 20.0},
     {'id': 4, 'nome': 'Azeite', 'preco': 15.0},
-    {'id': 5, 'nome': 'Boladcchl', 'preco': 2.0}
+    {'id': 5, 'nome': 'Sal', 'preco': 2.0}
 ]
 
 # Carrinho de compras
